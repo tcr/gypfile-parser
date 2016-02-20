@@ -2,6 +2,10 @@
 
 Parses most .gyp files published on npm.
 
+```
+npm install gypfile-parser
+```
+
 What's not supported?
 
 - The `*` operator.
