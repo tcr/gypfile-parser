@@ -1,0 +1,12 @@
+{
+  "name": "gypfile-parser",
+  "version": "1.0.0",
+  "description": "Parses gyp files in pure JavaScript.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tim Cameron Ryan <id@timryan.org>",
+  "license": "MIT"
+}
